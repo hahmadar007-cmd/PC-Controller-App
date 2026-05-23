@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.expo/
+Sysctrl/node_modules/
+Sysctrl/android/.gradle/
+Sysctrl/android/build/
+__pycache__/
+*.pyc
+.venv/
+venv/

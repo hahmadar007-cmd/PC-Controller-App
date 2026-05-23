@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "sysctrl",
+    "slug": "sysctrl",
+    "version": "1.0.0",
+    "sdkVersion": "51.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "android": {
+      "package": "com.vibecoding.sysctrl",
+      "usesCleartextTraffic": true
+    },
+    "splash": {
+      "backgroundColor": "#1a1a1a"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f0bc63ed-75a1-4c68-a71b-bc7f03151936"
+      },
+      "developerName": "Muhammad Ahmad",
+      "linkedinProfile": "https://www.linkedin.com/in/muhammad-ahmad-3387a7382/"
+    },
+    "owner": "ahmad_ar223",
+    "githubUrl": "https://github.com/hahmadar007-cmd/SysCtrl"
+  }
+}
